@@ -9,6 +9,7 @@ public class InsertionSort extends AbstractSort {
         InsertionSort insertionSort = new InsertionSort();
         insertionSort.sort(new int[]{5,3,1,2,4});
         insertionSort.sort(new int[]{10,9,8,7,6,5,4,3,2,1});
+        System.out.println(Math.log(8));
     }
 
     public  void sort(int[] arr){

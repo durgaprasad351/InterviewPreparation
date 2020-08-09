@@ -1,7 +1,108 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="67eac428-26fd-4edb-8ce7-9746311b28f1" name="Default Changelist" comment="" />
+    <list default="true" id="67eac428-26fd-4edb-8ce7-9746311b28f1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/arrays/ArbitaryInteger_Plus_One.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/arrays/DutchNationalFlag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/arrays/RemoveElementAndShiftRemaining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/arrays/SumToN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/binarytrees/BTNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/binarytrees/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/binarytrees/BinaryTreeUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/binarytrees/Construct_BinaryTee_From_PreOrder_Markers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/binarytrees/Construct_BinaryTree_From_InOrder_PreOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/binarytrees/ExteriorOfBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/binarytrees/InOrderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/binarytrees/InorderTraversalWith_Constant_Space.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/binarytrees/IsHeightBalanced.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/binarytrees/KthNodeInInOrderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/binarytrees/LCAWithParentPointer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/binarytrees/LowestCommonAncestor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/binarytrees/PreOrderTraversalIterative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/binarytrees/RootToLeafWithSpecifiedSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/binarytrees/SuccessorInInorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/binarytrees/SumTheRootToLeaf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/collections/ArrayUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/hashtables/CollatzConjecture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/hashtables/FindTheLengthOfALongestContainedInterval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/hashtables/FindTheNearestRepeatedEntriesInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/hashtables/LRUCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/hashtables/LongestSubArrayWithDistinctEntries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/hashtables/SmallestSubArrayContainingKeys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/hashtables/SmallestSubArrayContainingKeysSequential.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/hashtables/StringDecompositions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/linkedlist/ArbitaryIntegerAddition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/linkedlist/CircularLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/linkedlist/EvenOddList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/linkedlist/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/linkedlist/MergeTwoSortedLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/linkedlist/RemoveDuplicatedFromSortedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/linkedlist/ReverseList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/linkedlist/ReverseSubList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/linkedlist/RightShift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/search/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/search/EntryEqualToItsIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/search/FindBothMinAndMaxWithLesserComparisions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/search/FindTheKthLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/search/FirstOccuranceOfAnElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/search/FloatingPointSqrt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/search/InACircularList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/search/IntegerSquareRoot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/search/Search2DArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/sorting/ComputeTheUnionOfIntervals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/sorting/IntersectionOfTwoSortedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/sorting/MergeTwoSortedArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/sorting/MergingIntervals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/sorting/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/sorting/RenderCalander_Or_OverlappingIntervals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/stacksandqueue/NormalizedPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/strings/Basics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/strings/IntegerToString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/strings/LookAndSay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/strings/MnemonicsPhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/strings/ReverseAllTheWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/strings/RobinKarp_SubString_Match.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/strings/RomanToDecimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/strings/SpreedSheetColumnEncoding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/strings/TestPalidrmicity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/strings/ValidIpAddresses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/test/java/binarytrees/BinaryTreeUtilTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/main/java/_146_LRU_Cache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/main/java/_200_Number_of_Islands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/main/java/_42_Trapping_Rain_Water.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/main/java/_665_Non_decreasing_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/main/java/_7_Reverse_Integer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/main/java/_937_Reorder_Data_in_Log_Files.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithums_book/src/main/java/_1/_4/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithums_book/src/main/java/_1/_4/MergeSortThreeWay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElementsOfProgrammingInterview/ElementsOfProgrammingInterview.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/ElementsOfProgrammingInterview.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElementsOfProgrammingInterview/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/arrays/EventOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/arrays/EventOdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/target/classes/AVLTreeImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/target/classes/AVLTreeImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/target/classes/Arranging_Coins.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/target/classes/Arranging_Coins.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/target/classes/BTNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/target/classes/BTNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/target/classes/BinarySearchTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/target/classes/BinarySearchTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/target/classes/BinarySearchTreeImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/target/classes/BinarySearchTreeImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/target/classes/Binary_Tree_Level_Order_Traversal_II$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/target/classes/Binary_Tree_Level_Order_Traversal_II$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/target/classes/Binary_Tree_Level_Order_Traversal_II.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/target/classes/Binary_Tree_Level_Order_Traversal_II.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/target/classes/Hard_65_Valid_Number.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/target/classes/Hard_65_Valid_Number.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/target/classes/Heap.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/target/classes/Heap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/target/classes/Prison_Cells_After_N_Days.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/target/classes/Prison_Cells_After_N_Days.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithums_book/src/main/java/_1/_3/InfixToPostFix.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithums_book/src/main/java/_1/_3/InfixToPostFix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithums_book/src/main/java/_1/_3/ReverseLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithums_book/src/main/java/_1/_3/ReverseLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithums_book/src/main/java/_1/_4/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithums_book/src/main/java/_1/_4/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithums_book/target/classes/_1/_4/InsertionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/algorithums_book/target/classes/_1/_4/InsertionSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ElementsOfProgrammingInterview/arrays/EventOdd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ParseTextFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ParseTextFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/google/prep/leetcode/easy/Problem665.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/google/prep/leetcode/easy/Problem665.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,21 +116,31 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="AnnotationType" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1TfrVdlCM35cNP1YpwwjAZwIKKP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -43,27 +154,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.EventOdd">
-    <configuration name="Arranging_Coins" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arranging_Coins" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Binary_Tree_Level_Order_Traversal_II" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Binary_Tree_Level_Order_Traversal_II" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EventOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.EventOdd" />
+  <component name="RunManager" selected="Application.ComputeTheUnionOfIntervals">
+    <configuration name="ComputeTheUnionOfIntervals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sorting.ComputeTheUnionOfIntervals" />
       <module name="ElementsOfProgrammingInterview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrays.*" />
+          <option name="PATTERN" value="sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,27 +168,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hard_65_Valid_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hard_65_Valid_Number" />
-      <module name="LeetCode" />
+    <configuration name="MergeTwoSortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sorting.MergeTwoSortedArrays" />
+      <module name="ElementsOfProgrammingInterview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Prison_Cells_After_N_Days" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Prison_Cells_After_N_Days" />
-      <module name="LeetCode" />
+    <configuration name="MergingIntervals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sorting.MergingIntervals" />
+      <module name="ElementsOfProgrammingInterview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sorting.RemoveDuplicates" />
+      <module name="ElementsOfProgrammingInterview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RenderCalander_Or_OverlappingIntervals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sorting.RenderCalander_Or_OverlappingIntervals" />
+      <module name="ElementsOfProgrammingInterview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EventOdd" />
-        <item itemvalue="Application.Hard_65_Valid_Number" />
-        <item itemvalue="Application.Prison_Cells_After_N_Days" />
-        <item itemvalue="Application.Binary_Tree_Level_Order_Traversal_II" />
-        <item itemvalue="Application.Arranging_Coins" />
+        <item itemvalue="Application.ComputeTheUnionOfIntervals" />
+        <item itemvalue="Application.MergingIntervals" />
+        <item itemvalue="Application.RenderCalander_Or_OverlappingIntervals" />
+        <item itemvalue="Application.RemoveDuplicates" />
+        <item itemvalue="Application.MergeTwoSortedArrays" />
       </list>
     </recent_temporary>
   </component>
@@ -104,6 +239,19 @@
       <updated>1573862015244</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -143,7 +291,162 @@
           <line>40</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCode/src/main/java/_665_Non_decreasing_Array.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCode/src/main/java/_7_Reverse_Integer.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCode/src/main/java/_200_Number_of_Islands.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCode/src/main/java/_42_Trapping_Rain_Water.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/strings/IntegerToString.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/strings/TestPalidrmicity.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/strings/MnemonicsPhoneNumber.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/strings/LookAndSay.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/strings/RomanToDecimal.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/strings/ValidIpAddresses.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/strings/RobinKarp_SubString_Match.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithums_book/src/main/java/_1/_4/MergeSortThreeWay.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithums_book/src/main/java/_1/_4/MergeSortThreeWay.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/linkedlist/CircularLinkedList.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/linkedlist/RightShift.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/linkedlist/RightShift.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/binarytrees/LowestCommonAncestor.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/binarytrees/LCAWithParentPointer.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/binarytrees/LCAWithParentPointer.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/binarytrees/KthNodeInInOrderTraversal.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/binarytrees/KthNodeInInOrderTraversal.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/binarytrees/Construct_BinaryTree_From_InOrder_PreOrder.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/binarytrees/Construct_BinaryTee_From_PreOrder_Markers.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/search/FindBothMinAndMaxWithLesserComparisions.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/search/FindBothMinAndMaxWithLesserComparisions.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/search/FindTheKthLargest.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/search/FindTheKthLargest.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/hashtables/FindTheNearestRepeatedEntriesInArray.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/hashtables/SmallestSubArrayContainingKeysSequential.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ElementsOfProgrammingInterview/src/main/java/hashtables/FindTheLengthOfALongestContainedInterval.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="str.charAt(i)" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

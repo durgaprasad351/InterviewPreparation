@@ -12,7 +12,7 @@ public class InfixToPostFix {
      * PostFix : A B * C D / +
      */
 
-    static final Map<Character, Integer> OP = new HashMap<>();
+    static final Map<Character, Integer> OP = new HashMap();
     static {
         OP.put('*', 5);
         OP.put('/', 5);

@@ -12,6 +12,8 @@ In:
 
     Move all the even to left and odd to right
 
+    Also know as Two pointer
+
 Out:
     [2,4,6,1,3,5]
 
@@ -24,8 +26,6 @@ Missed end variable initialization
         int[] res =  evenOdd( new int[]{1,2,3,4,5,6});
         System.out.println( Arrays.toString(res) );
     }
-
-
 
     public static int[] evenOdd(int[] a){
         //Two pointers event and odd

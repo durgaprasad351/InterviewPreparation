@@ -51,7 +51,7 @@ public class ReverseLinkedList {
     }
 
     private static void reverseUsingStack(LinkedList linkedList){
-        Stack<Node> s = new Stack<>();
+        Stack<Node> s = new Stack();
         Node n = linkedList.head;
         while(n != null){
             s.push(n);
